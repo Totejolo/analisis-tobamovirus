@@ -21,7 +21,7 @@ Comparative analysis of tobamovirus genome sequences from wild hosts: multiple s
 | `matriz_distancias.csv` | Pairwise genetic distance matrix |
 | `SNPs_detectados.csv` | Variable positions found in the alignment |
 | `heatmap.png` | Genetic distance heatmap |
-| `distribucion de snps en el genoma.png`, `Freacuencia de SNPs en el genoma.png` | SNP distribution and frequency along the genome |
+| SNP distribution PNGs | SNP distribution and frequency along the genome |
 
 ## Requirements
 
@@ -38,5 +38,3 @@ The script expects the FASTA files, the `.aln` alignment and `matriz_distancias.
 ## Data
 
 Sequences are public genome records; no restricted data is used.
-# analisis-tobamovirus
-It´s a code in Python used to studying an analisis of Tobamovirus with  wild host
